@@ -33,5 +33,11 @@ The diagram below illustrates the overall workflow of the Hopfield Neural Networ
   - Demonstrate associative memory through pattern recovery.
   - Evaluate the behaviour and limitations of Hopfield Networks.
 
+## Academic Resources
+
+This repository accompanies an MSc Data Science dissertation on Hopfield Neural Networks for pattern recognition.
+
+- 📄 Dissertation: [`docs/hopfield_neural_network_dissertation.pdf`](docs/hopfield_neural_network_dissertation.pdf)
+- 📊 Presentation: [`presentation/hopfield_neural_network_presentation.pptx`](presentation/hopfield_neural_network_presentation.pptx)
 
 **Status:** Completed Research Project
