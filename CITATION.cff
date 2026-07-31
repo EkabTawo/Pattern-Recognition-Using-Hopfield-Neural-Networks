@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Pattern Recognition Using Hopfield Neural Networks"
+message: "If you use this project, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Tawo
+    given-names: Ekab-Osowo
+repository-code: "https://github.com/EkabTawo/Pattern-Recognition-Using-Hopfield-Neural-Networks"
+license: MIT
