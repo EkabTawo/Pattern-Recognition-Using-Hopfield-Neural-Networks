@@ -1,0 +1,19 @@
+# Byte-compiled / optimised files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
