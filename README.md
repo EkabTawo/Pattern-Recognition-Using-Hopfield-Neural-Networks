@@ -13,6 +13,18 @@ The diagram below illustrates the overall workflow of the Hopfield Neural Networ
   <img src="diagrams/hopfield_network_workflow.png" alt="Hopfield Network Workflow" width="700">
 </p>
 
+## Results
+
+### Graphical User Interface
+![GUI](images/gui_interface.png)
+
+### Pattern Recognition Example
+![Pattern Input](images/pattern_input.png)
+
+![Pattern Guess](images/pattern_guess.png)
+
+### Experimental Results
+![Pattern Output](images/pattern_output.png)
 
 ## Project Objectives
 
